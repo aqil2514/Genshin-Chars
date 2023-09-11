@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Genshin Font";
+  src: url("../assets/zh-cn.ttf");
+}
+
+nav {
+  text-align: center;
+  background: linear-gradient(90deg, #070e75, #0408d8);
+  padding: 1rem;
+
+  h1 {
+    font-family: "Genshin Font";
+    color: white;
+    text-shadow: 0 0 0 #1519f3;
+  }
+}

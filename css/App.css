@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Genshin Font";
+  src: url("../font/zh-cn.ttf");
+}/*# sourceMappingURL=App.css.map */
