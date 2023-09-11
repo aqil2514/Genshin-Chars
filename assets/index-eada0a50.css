@@ -110,32 +110,32 @@ nav h1 {
   visibility: visible;
 }
 #Focalors {
-  background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(/assets/Focalors-db7f9f0f.png);
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(../assets/Focalors-db7f9f0f.png);
   background-position: top;
   background-size: cover;
 }
 #HuTao {
-  background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(/assets/HuTao-f6daf24d.jpg);
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(../assets/HuTao-f6daf24d.jpg);
   background-position: top;
   background-size: cover;
 }
 #Lumine {
-  background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(/assets/Lumine-bdef7592.jpg);
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(../assets/Lumine-bdef7592.jpg);
   background-position: top;
   background-size: cover;
 }
 #Lynette {
-  background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(/assets/Lynette-1f0e70a1.png);
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(../assets/Lynette-1f0e70a1.png);
   background-position: top;
   background-size: cover;
 }
 #Nahida {
-  background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(/assets/Nahida-07a96ed5.jpg);
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(../assets/Nahida-07a96ed5.jpg);
   background-position: top;
   background-size: cover;
 }
 #Raiden {
-  background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(/assets/Raiden-6f88bbab.jpg);
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(../assets/Raiden-6f88bbab.jpg);
   background-position: top;
   background-size: cover;
 }
